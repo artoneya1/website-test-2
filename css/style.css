@@ -166,8 +166,7 @@ body {
     text-align: center;
 }
 
-.section__subtitle
-{
+.section__subtitle {
     font-size: 1.25em;
     color: var(--cards-stroke-color);
     margin-bottom: 2.1875rem;
